@@ -6,7 +6,7 @@ from the US Military Government to the start of the Fifth Republic.
 
 This is by no means exhaustive.
 History is a fractal and the forest of knowledge runs deep.
-This repository is a way for me to organize
+This repository is a way for me to organize my knowledge of the past.
 
 ## Contributing
 
