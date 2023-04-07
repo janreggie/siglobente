@@ -1,5 +1,11 @@
 # siglobente
 
+> Para leer en el destino de los pueblos, es menester abrir el libro de su pasado.
+>
+> (To foretell the destiny of a nation, it is necessary to open the book that tells of her past.)
+>
+> -- José Rizal, *Filipinas dentro de cien años*
+
 This Dendron workspace serves as my personal notes
 for events, themes, people, etc. in Filipinas during the 20th century,
 from the US Military Government to the start of the Fifth Republic.
